@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/MadamSauce/testimonials-grid-section-main-2
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://madamsauce.github.io/testimonials-grid-section-main-2/
 
 ## My process
 
